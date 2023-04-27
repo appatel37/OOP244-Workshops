@@ -1,0 +1,2 @@
+I reasoned that I could still write understandable code by overloading the operation. But I countered that it might be harder for someone else to understand my code if I utilised too many different operators. I should be able to overload operators in a way that's obvious to other people.
+The overloaded operator== function is represented by the bool operator==(const Bus &right) const. It belongs to the Bus class as a member function. It takes as an argument a constant reference to a Bus object. As a result, it gives back a bool.

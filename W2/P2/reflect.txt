@@ -1,0 +1,4 @@
+I learned a lot at the second course, including how to deallocate, allocate, and utilise pointers to access dynamic memory. I learnt how to use dynamic memory allocation, which is supported by the majority of apps and programmes, because memory leaks were a significant issue for me in Workshop 1. Not all programmes and software require a lot of RAM. Therefore, I'm sure that dynamic memory allocation is really advantageous.
+To avoid memory leaks, I typically try to deallocate memory to free up ram on my machine. I use delete to deallocate and release memory.
+The pointer's range must include the allocated memory and it must be in the deallocated state. 
+This Workshop is a great way to learn about pointers and dynamic memory allocation. I'm looking forward to the next Workshop.

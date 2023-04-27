@@ -1,0 +1,4 @@
+I gained knowledge about namespaces in this workshop. I learned that namespaces are mostly used to prevent identifier conflicts across various files.
+I also discovered how crucial modules are. It is sense to break the code up into modules since this makes the code much easier to comprehend. Each module carries out a particular activity or function while concealing how it was implemented.
+I gained knowledge on how to divide the programme into logical modules, how to arrange the modules into header and implementation files, how to utilise a safeguard for the.h files that are referenced frequently throughout the code, how to create and use namespaces, and more throughout this workshop.
+Overall, I had fun at this workshop.
